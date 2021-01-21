@@ -8,3 +8,9 @@
 
 <!-- Criei o arquivo db.json -->
 * cd backend > db.json
+
+<!-- Rodar o banco -->
+* npm start
+
+<!-- Criei o front end -->
+ng new frontend --minimal
