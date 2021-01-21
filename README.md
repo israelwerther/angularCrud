@@ -5,3 +5,6 @@
 
 <!-- Instalei a dependencia -->
 * cd backend > $ npm i json-server 
+
+<!-- Criei o arquivo db.json -->
+* cd backend > db.json
