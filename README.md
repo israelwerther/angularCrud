@@ -13,4 +13,10 @@
 * npm start
 
 <!-- Criei o front end -->
-ng new frontend --minimal
+* ng new frontend --minimal
+
+<!-- Intalar angular material -->
+* cd frontend > ng add @angular/material
+
+<!-- Criar component header -->
+* ng g c components/templates/header
