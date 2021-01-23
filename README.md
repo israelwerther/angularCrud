@@ -20,3 +20,6 @@
 
 <!-- Criar component header -->
 * ng g c components/templates/header
+
+<!-- Criar uma diretiva -->
+* ng g d directives/red (exemplo)
