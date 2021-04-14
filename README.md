@@ -23,3 +23,7 @@
 
 <!-- Criar uma diretiva -->
 * ng g d directives/red (exemplo)
+
+<!-- Criar um service -->
+* ng g s components/product/product
+
