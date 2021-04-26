@@ -4,9 +4,8 @@
       "id": 1,
       "name": "Caneta BIC Preta",
       "price": 5.89
-    }    
-  ],  
-
+    }
+  ],
   "clienteCredcoop": [
     {
       "id": 1,
@@ -18,7 +17,5 @@
       "nome": "israel da silva bezerra",
       "rg": "2193745"
     }
-  ]  
+  ]
 }
-
-

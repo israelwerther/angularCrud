@@ -21,6 +21,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 
 import { HttpClientModule } from '@angular/common/http';
+import { CredcoopCrudComponent } from './views/credcoop-crud/credcoop-crud.component';
 
 @NgModule({
   // Aqui vai os components, diretivas e pipes
@@ -33,6 +34,7 @@ import { HttpClientModule } from '@angular/common/http';
     ProductCrudComponent,
     RedDirective,
     ProductCreateComponent,
+    CredcoopCrudComponent,
   ],
   imports: [
     BrowserModule,
